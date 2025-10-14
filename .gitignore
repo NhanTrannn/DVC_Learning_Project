@@ -8,11 +8,6 @@ __pycache__/
 venv/
 env/
 
-# DVC-managed data
-data/raw/
-data/processed/
-artifacts/
-
 # IDE
 .vscode/
 .idea/
@@ -25,4 +20,3 @@ artifacts/
 venv/
 env/
 __pycache__/
-
