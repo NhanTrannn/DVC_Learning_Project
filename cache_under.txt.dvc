@@ -1,0 +1,7 @@
+outs:
+- md5: 1db7a1fc2f80544bd2cfb05516c4eb4d
+  size: 16
+  hash: md5
+  path: cache_under.txt
+
+meta: pref

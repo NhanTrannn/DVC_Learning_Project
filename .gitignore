@@ -19,3 +19,10 @@ artifacts/
 
 # OS
 .DS_Store
+
+# Virtual env
+.venv/
+venv/
+env/
+__pycache__/
+
